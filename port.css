@@ -11,3 +11,18 @@
     position:relative;
     font-family:sans-serif;
 }
+.navbar{
+    width:86%;
+    display:flex;
+    margin:auto;
+    padding: 15px 0;
+    align-items:center;
+    justify-content:space-between;
+
+}
+.navbar .logo{
+    width:160px;
+    cursor:pointer;
+    margin-top:-3%;
+    margin-left:-2%;
+}
