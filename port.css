@@ -82,3 +82,17 @@ body{
 
 
 }
+.image{
+    width:30%;
+    height: 60%;
+    position: absolute;
+    right:10px;
+    bottom:0;
+}
+.image img{
+    position: absolute;
+    height: 140%;
+    left:40%;
+    transform: translate(-50%);
+    bottom:0;
+}
