@@ -75,4 +75,10 @@ body{
     padding:10px 18px;
     border-radius:10px;
     display:inline-block;
+    transition: .4s ease;
+}
+.info a:hover{
+    background:rgb(59,174,209);
+
+
 }
